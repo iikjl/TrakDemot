@@ -1,1 +1,10 @@
+10^8 operaatiota/s
 
+
+
+(a) TA(n) = 31 250 000 lg n alkeisoperaatiota
+(b) TB(n) = 404n alkeisoperaatiota
+(c) TC(n) = 20n lg n alkeisoperaatiota 
+(d) TD(n) = 9n^2 alkeisoperaatiota
+(e) TE(n) = (1/80)n^3 alkeisoperaatiota 
+(f) TF(n) = (1/65 000)2n alkeisoperaatiota
